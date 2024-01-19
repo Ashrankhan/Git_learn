@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class B {
+public class B {
+    int abc;
+    int cdf;
 }
