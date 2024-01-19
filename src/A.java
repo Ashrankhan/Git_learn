@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class A {
+public class A {
+
+    String name;
+
+
 }
